@@ -61,12 +61,12 @@ npm run dev
 
 ## Assignment Requirements Checklist
 
-✅ 1. Started React app using npm and Vite  
-✅ 2. Studied App.jsx, main.jsx, App.css, and index.html files  
-✅ 3. Created custom functional component (Profile.jsx) replicating App.jsx pattern  
-✅ 4. Created style component (Profile.css)  
-✅ 5. Imported image file (profile.svg) and CSS file into Profile.jsx  
-✅ 6. Used useState() hook with button to count up from 0  
+ 1. Started React app using npm and Vite  
+ 2. Studied App.jsx, main.jsx, App.css, and index.html files  
+ 3. Created custom functional component (Profile.jsx) replicating App.jsx pattern  
+ 4. Created style component (Profile.css)  
+ 5. Imported image file (profile.svg) and CSS file into Profile.jsx  
+ 6. Used useState() hook with button to count up from 0  
 
 ## How It Works
 
