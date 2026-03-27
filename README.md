@@ -19,10 +19,10 @@ npm start
 Frontend runs at: http://localhost:3000
 
 ## Features
-- ✅ GET – View all todos (loads on start)
-- ✅ POST – Add new todos
-- ✅ PUT – Edit/rename a todo and save to database
-- ✅ PATCH – Toggle completed/incomplete
-- ✅ DELETE – Remove a todo
-- ✅ Bootstrap 5 styling
-- ✅ Data persists on refresh (json-server)
+- GET – View all todos (loads on start)
+- POST – Add new todos
+- PUT – Edit/rename a todo and save to database
+- PATCH – Toggle completed/incomplete
+- DELETE – Remove a todo
+- Bootstrap 5 styling
+- Data persists on refresh (json-server)
